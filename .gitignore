@@ -15,3 +15,7 @@ docs/
 *.pyzz
 .venv/
 __pycache__/
+models/functiongemma-270m-it-Q4_K_M.gguf
+test.md
+fn.py
+poetry.lock
